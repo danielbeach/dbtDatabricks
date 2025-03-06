@@ -1,0 +1,11 @@
+bricks:
+  outputs:
+    dev:
+      catalog: confessions
+      host: https://bing-bong-ding-dong.cloud.databricks.com/
+      http_path: sql/protocolv1/o/319592733000122/0125-214456-xrlnwni0
+      schema: default
+      threads: 1
+      token: yeah-right-keep-dreaming
+      type: databricks
+  target: dev
